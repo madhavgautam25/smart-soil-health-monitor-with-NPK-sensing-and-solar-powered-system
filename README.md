@@ -1,0 +1,1 @@
+# smart-soil-health-monitor-with-NPK-sensing-and-solar-powered-system
